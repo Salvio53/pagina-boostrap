@@ -1,0 +1,22 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+  background-color: tomato;
+}
+  
+
+.navbar-brand {
+  font-size: 20px;
+  color: #000;
+  font-weight: bold;
+}
+
+#testimonial {
+  background: #10d3c3;
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top: 40px;
+}
+
+footer {
+  background: url(../gato1.webp);
+}
